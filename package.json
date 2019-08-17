@@ -8,7 +8,9 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "inquirer": "^6.5.1",
     "js-base64": "^2.5.1",
+    "mute-stream": "0.0.8",
     "react": "16.8.6",
     "react-native": "0.60.5"
   },
